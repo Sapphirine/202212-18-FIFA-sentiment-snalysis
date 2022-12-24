@@ -1,6 +1,13 @@
 # FIFA World Cup Twitter Sentiment Analysis
 ### EECS 6893 Group 18: Anne Wei, Robert Shi
 
+## Supplementary files
+Files > 100 MB cannot be committed to GitHub. Please access through https://drive.google.com/drive/folders/1CD2go0M8eqwxXQbx2WSAAGgZzNgvAUmZ?usp=sharing
+
+`dataset/data.csv` is the raw dataset we used. Please integrate it into `dataset/` directory.
+
+`saved_models/` folder contains BERT-base and BERT-large models. Please save them as-is in the root directory.
+
 ## Code walkthrough (files are ordered)
 1. `exploratory_analysis.py`\
 Perform exploratory, pre-model analysis mainly using Python `NLTK`.
